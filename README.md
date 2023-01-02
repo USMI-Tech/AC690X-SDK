@@ -1,6 +1,7 @@
 # AC690X-SDK
 
-![81_Jieli](https://user-images.githubusercontent.com/121731611/210158039-fd0b669c-6e92-4126-acab-1275066cfcb7.png)
+![615465](https://user-images.githubusercontent.com/121731611/210273235-f2f59078-efd0-41c7-9000-c81815d1a8be.png)
+
 
 All Patch SDK ac690x series
 All Patch and all orig version, provide by JL Factory
